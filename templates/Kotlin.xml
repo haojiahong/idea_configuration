@@ -1,0 +1,5 @@
+<templateSet group="Kotlin">
+  <template name="logger" value="/** logger */&#10;private static final Logger LOGGER = LoggerFactory.getLogger($CLASS$.class);" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>

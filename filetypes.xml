@@ -1,0 +1,25 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="dubbo-zk-node" type="PLAIN_TEXT" />
+      <mapping pattern="provider-export" type="PLAIN_TEXT" />
+      <mapping pattern="consumer-ref" type="PLAIN_TEXT" />
+      <mapping pattern="为什么dubbo要设计adaptive" type="PLAIN_TEXT" />
+      <mapping pattern="为什么dubbo要自己设计一套spi" type="PLAIN_TEXT" />
+      <mapping pattern="重要概念介绍" type="PLAIN_TEXT" />
+      <mapping pattern="consumer-request" type="PLAIN_TEXT" />
+      <mapping pattern="adative-code-templet" type="PLAIN_TEXT" />
+      <mapping pattern="编解码" type="PLAIN_TEXT" />
+      <mapping pattern="adaptive-code-template" type="PLAIN_TEXT" />
+      <mapping pattern="SpringExtensionFactory 的设计初衷" type="PLAIN_TEXT" />
+      <mapping pattern="dubbo-spi" type="PLAIN_TEXT" />
+      <mapping pattern="provider-response" type="PLAIN_TEXT" />
+      <mapping pattern="异步-同步" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="schema" type="PLAIN_TEXT" />
+      <mapping ext="lua" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
+      <mapping pattern="dubbo-zkNode" type="TML" />
+    </extensionMap>
+  </component>
+</application>

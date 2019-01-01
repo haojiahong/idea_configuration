@@ -1,0 +1,12 @@
+<scheme name="Default-hao" version="142" parent_scheme="Default">
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <attributes>
+    <option name="TEXT">
+      <value>
+        <option name="BACKGROUND" value="cce8cf" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
