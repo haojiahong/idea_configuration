@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="dubbo-zk-node" type="PLAIN_TEXT" />
       <mapping pattern="provider-export" type="PLAIN_TEXT" />
+      <mapping pattern="dubbo面试常问问题" type="PLAIN_TEXT" />
       <mapping pattern="consumer-ref" type="PLAIN_TEXT" />
       <mapping pattern="为什么dubbo要设计adaptive" type="PLAIN_TEXT" />
       <mapping pattern="为什么dubbo要自己设计一套spi" type="PLAIN_TEXT" />
