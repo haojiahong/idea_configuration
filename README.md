@@ -1,9 +1,9 @@
 # idea 配置同步
 
-通过 Settings Repository 共享设置
 **使用条件**
 在开始使用 Settings Repository 之前，请确保 Settings Repository 插件已启用。该插件与IntelliJ IDEA 捆绑在一起，默认情况下处于启用状态。如果该插件未启用，请在 Settings / Preferences Dialog 对话框的 Plugins 页上启用它。
-配置 Settings Repository
+
+**配置 Settings Repository**
 **如果要共享 IDE 设置，请执行以下步骤：**
 
 - 在任何托管服务上创建 Git 存储库，例如 Bitbucket 或 GitHub。
